@@ -1,0 +1,21 @@
+body {
+
+    	background-image: url(https://wallpaperaccess.com/full/30100.jpg);
+    	background-size: cover;
+    	background-repeat: no-repeat;
+    	background-attachment: fixed;
+    	background-position: center center;
+}
+#but{
+	margin: 2px 0px;
+}
+#butt{
+	margin: 3px 0px;
+}
+
+nav .navbar-brand{
+	font-size: 30px;
+}
+nav a{
+    font-size: 20px;
+}
